@@ -1,0 +1,2 @@
+[print_schema]
+filter = {only_tables = ["offline_cash_issuance", "offline_claims", "offline_cash_req","interbank_cash_clearance","offline_cash_queue","cash_sync","cash_issuance_queue"]}
